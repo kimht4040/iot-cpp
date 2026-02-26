@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 4.1)
-project(cpp01)
+project(Test2)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(cpp01 main.cpp)
+add_executable(Test2 Test.cpp)
